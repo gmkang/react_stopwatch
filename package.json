@@ -1,0 +1,27 @@
+{
+  "name": "stopwatch",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.19.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "We're gonna make: a stopwatch, replicating http://potoo-stopwatch.surge.sh/.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:ginakang/react_stopwatch_lab.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
