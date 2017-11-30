@@ -1,3 +1,3 @@
 # Simple Stopwatch
 
-A simple stopwatch made with react. More css needed. 
+A simple stopwatch made with React. 
